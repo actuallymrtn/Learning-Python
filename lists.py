@@ -13,7 +13,7 @@ strings = []
 names = ["John", "Eric", "Jessica"]
 
 
-second_name = names[1]
+second_name = names[0]
 numbers.append(1)
 numbers.append(2)
 numbers.append(3)
